@@ -1,5 +1,5 @@
 <h1>WorldQuantUniversity Project 1</h1><br>
-Worked with a dataset with 21,000 properties for sale in Brazil. The goal is to determine whether sale prices are influenced more by property size or location.
+Worked with a dataset with 21,000 properties for sale in Brazil. The goal is to determine whether sale prices are influenced more by property size or location by using data wrangling and visualization skills.
 <br>
 <br>
 <h2>What I learnt:</h2>
